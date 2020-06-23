@@ -3,10 +3,12 @@ function foo(b) {
 
   if (b) {
     local_num = 20 + 5;
-  } else {
-	  local_num = 0;
-  }
-
+  } else if(local_num == 20) {
+    local_num = 0;
+    if(local_num == 20){
+      local_num *= 5;
+    }
+  } 
   console.log('Final result is: ', local_num);
 }
 

@@ -1,0 +1,11 @@
+andAdv_noPrettyPrint.js || Uncompressed: 11K || Compressed: 4.4K
+lineInstrum_andAdv_noPrettyPrint.js || Uncompressed: 20K || Compressed: 7.5K
+branchInstrum_andAdv_noPrettyPrint.js || Uncompressed: 14K || Compressed: 5.2K
+
+adv_noPrettyPrint_noPolyfill.js || Uncompressed: 4.7K || Compressed: 2.3K
+branchInstrum.js || Uncompressed: 94K || Compressed: 19K
+branchInstrum_andAdv.js || Uncompressed: 20K || Compressed: 5.8K
+branchInstrum_andAdv_noPolyfill.js || Uncompressed: 11K || Compressed: 3.6K
+lineInstrum.js || Uncompressed: 152K || Compressed: 25K
+lineInstrum_andAdv.js || Uncompressed: 29K || Compressed: 8.4K
+lineInstrum_andAdv_noPolyfill.js || Uncompressed: 15K || Compressed: 4.7K
